@@ -1,0 +1,2 @@
+ The first minimum and second minimum difference between any successive
+elements in its sorted form = [1, 2, 3, 5, 7, 11, 13, 48] 1 1

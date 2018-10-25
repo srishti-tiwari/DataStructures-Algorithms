@@ -1,0 +1,5 @@
+Enter array separated with ',' 
+Enter the value of x
+5
+Enter array separated with ',' 
+Enter the value of x
